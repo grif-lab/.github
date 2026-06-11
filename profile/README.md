@@ -14,7 +14,11 @@ We are the Computational Atmospheric Intelligence Lab at the [University of Bris
 
 #### news
 
-- 🚨 Welcome to our new PDRA, Rayne Holland, who will work on the DeTOX project, and Masters Student, Liszka McKay, working on VOC oxidation.
+- 🚨 2026-05-26 Welcome to our new PDRA, Rayne Holland, who will work on the DeTOX project.
+
+- 🎆 2026-05-25 Welcome also to the group to Liszka McKay, working on VOC oxidation.
+
+- 🤖 and a warm welcome to the group to our AI scientist [Where's the Tea](https://github.com/grif-lab-wheres-the-tea) who works with us on various topics.
   
 #### about us
 
