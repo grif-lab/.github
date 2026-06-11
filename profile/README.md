@@ -14,13 +14,13 @@ We are the Computational Atmospheric Intelligence Lab at the [University of Bris
 
 #### news
 
-- 🚨 Our [community review](https://github.com/ML4O3/Applications-of-Machine-Learning-and-Artificial-Intelligence-in-Tropospheric-Ozone-Research/tree/main) of ML/AI in tropospheric ozone research, led by [Seb](https://github.com/shmh40) for phase 2 of [IGAC TOAR](https://igacproject.org/activities/TOAR/TOAR-II) [ML4O3](https://igacproject.org/ml4o3-focus-working-group), is now published. See the [website](https://github.com/ML4O3/).
-
+- 🚨 Welcome to our new PDRA, Rayne Holland, who will work on the DeTOX project, and Masters Student, Liszka McKay, working on VOC oxidation.
+  
 #### about us
 
 🌱 Our science is about the chemistry that sets air quality and climate: methane, ozone, and the hydroxyl radical (OH) that cleans the atmosphere. We are interested in aerosol chemistry, ozone production, VOC oxidation and air pollution, and how this chemistry behaved in the past and will change in the future.
 
-🖥️ We mostly write Python and Julia, and we run on UK HPC such as Isambard and JASMIN. We are building out the machine-learning side, starting with box models, and we try to keep our code open and our results reproducible. A lot of what lives here is work in progress.
+🖥️ We use 3D models such as UKESM1 and GEOS-Chem, box models like BOXMOX, and we run them on UK HPC such as the NERC/UKMO MONSOON HPC, UKRI Isambard and JASMIN. A lot of what lives here is work in progress.
 
 #### we're open to collaborations!
 
