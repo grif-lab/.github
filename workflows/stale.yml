@@ -1,0 +1,5 @@
+- uses: actions/stale@v9
+  with:
+    # Setting this to -1 completely disables automatic closing
+    days-before-issue-close: -1 
+    days-before-pr-close: -1
